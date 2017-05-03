@@ -2,9 +2,8 @@
 An interpreter for the Classroom Object Oriented Language ([Cool](https://en.wikipedia.org/wiki/Cool_(programming_language))).
 
 ## Overview
-This is the semester-long project for CS4610 Programming Languages at UVA. The project is an interpreter for the 
-Cool programming language. 
-The interpreter is broken down into four stages and implemented using four programming languages.
+This is a semester-long project for CS4610 Programming Languages at UVA, completed on May 2nd, 2017. The project is an interpreter for the Cool programming language. 
+The interpreter is broken down into four stages (Lexing, Parsing, Type Checking and Interpreting) and implemented using four different programming languages.
 
 1. Lexing (Implemented in Java using [jflex](http://jflex.de/))
 - The Cool source code is tokenized in this stage.
